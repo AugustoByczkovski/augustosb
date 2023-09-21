@@ -10,4 +10,4 @@ Meu nome é Augusto Byczkovski
 
 augusto.byczkovski@escola.pr.gov.br
 
-https://media.tenor.com/AbHVaTiljsMAAAAC/kurica.gif
+![](https://media.tenor.com/AbHVaTiljsMAAAAC/kurica.gif)
