@@ -10,5 +10,4 @@ Meu nome é Augusto Byczkovski
 
 augusto.byczkovski@escola.pr.gov.br
 
-
-![descrição do GIF](link GIF do Tenor)
+https://media.tenor.com/AbHVaTiljsMAAAAC/kurica.gif
